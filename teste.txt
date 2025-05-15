@@ -1,0 +1,1 @@
+git clone [...] <= clona o projeto que esta no git hub, [...] referencia a url do projeto que deseja copiar.
